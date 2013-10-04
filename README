@@ -1,0 +1,16 @@
+Developed by Ottavio Manno: ottomanh@me.com
+
+Version 1.0
+(Windows Only)
+
+Usage:
+
+1) Place the script where are located the directories to compress or everywhere if you prefer to put a custom path
+
+2) Launch the script and follow the instruction in the terminal
+
+3) A directory called zipped will be created in the script root with the directories compressed
+
+Optional features
+
+* To insert a credit file in every archive create a file called 'Readme.txt' in the script root
